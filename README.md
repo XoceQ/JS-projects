@@ -1,6 +1,6 @@
 # JS-projects
 
-http://xoceqp.ezyro.com/
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -14,7 +14,7 @@ http://xoceqp.ezyro.com/
     <table>
         <tr>
             <th>Calculadora</th>
-            <td>http://xoceqp.ezyro.com/</td>
+            <td><h5>Demo live</h5>http://xoceqp.ezyro.com/</td>
         </tr>
     </table>
 </body>
